@@ -1,3 +1,4 @@
+
 🛒 Secure Online MarketPlace
 
 A production-grade, secure RESTful e-commerce backend built with Spring Boot. Designed with clean architecture, JWT-based authentication, and role-based access control — enabling a scalable marketplace where buyers and sellers can interact safely.
